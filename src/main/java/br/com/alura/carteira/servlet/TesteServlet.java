@@ -31,3 +31,9 @@ public class TesteServlet extends HttpServlet {
 	}
 
 }
+
+// Anotacoes:
+// JSP: Java server pages para colocar codigo java dentro do html, inverso do
+// Servlet
+
+// Trabalhar com JSP + Servlet
